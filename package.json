@@ -1,0 +1,26 @@
+{
+  "name": "screammer.js",
+  "version": "1.0.0",
+  "description": "A nice promise-based event manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "events",
+    "async",
+    "listener",
+    "promises"
+  ],
+  "author": "dav1app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dav1app/screammer.js.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "fuse.js": "^6.6.2",
+    "promise-deferred": "^2.0.3"
+  }
+}
